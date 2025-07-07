@@ -1,11 +1,11 @@
 ```markdown
-# 📝 Todo App Backend
+# Todo App Backend
 
 A clean, modular, and containerized **backend-only** Todo application built with **FastAPI**, **PostgreSQL**, **SQLAlchemy**, and **Alembic**. This project follows clean architecture principles with separate layers for API, services, repositories, and database.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **FastAPI** — high-performance web framework
 - **PostgreSQL** — relational database
@@ -17,7 +17,7 @@ A clean, modular, and containerized **backend-only** Todo application built with
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 
@@ -42,7 +42,7 @@ todo-app/
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -51,7 +51,7 @@ todo-app/
 
 ---
 
-### 📦 Installation & Run (Local via Docker)
+### Installation & Run (Local via Docker)
 
 1. **Clone the repository**
 
